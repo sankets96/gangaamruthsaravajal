@@ -240,15 +240,11 @@ padding-top: 10vw;
     letter-spacing: 0.5vw;   
 
   }
-  
-  .process{
-
-    width: 105vw;
-    height: 150vw;
-    display: flex;
-    padding-left: 4vw;
-    padding-right: 4vw;
-    margin-top: 9vw;
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
   }
 
   .h3{
